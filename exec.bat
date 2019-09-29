@@ -1,3 +1,3 @@
 cd python
-python Builds.py param
+python Builds.py report
 pause
